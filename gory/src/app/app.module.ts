@@ -9,6 +9,7 @@ import { GalerySectionComponent } from './componentes/galery-section/galery-sect
 import { PlanesPreciosComponent } from './componentes/planes-precios/planes-precios.component';
 import { ProfesoresComponent } from './componentes/profesores/profesores.component';
 import { ContactanosComponent } from './componentes/contactanos/contactanos.component';
+import { NavegacionComponent } from './componentes/navegacion/navegacion.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { ContactanosComponent } from './componentes/contactanos/contactanos.comp
     GalerySectionComponent,
     PlanesPreciosComponent,
     ProfesoresComponent,
-    ContactanosComponent
+    ContactanosComponent,
+    NavegacionComponent
   ],
   imports: [
     BrowserModule,
