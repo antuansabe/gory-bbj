@@ -1,0 +1,31 @@
+*{
+  border-radius: 15px;
+}
+
+.wrapper {
+  height: 400px;
+  color: #ffff;
+  margin-top: 10px;
+  text-align: center;
+  background-size: cover;
+background-image: url( ../../../assets/img/thai-wallpaper.jpeg);
+};
+.content{
+  padding-top: 100px;
+}
+
+button {
+  border-style: none;
+  width: 100px;
+  height: 35px;
+  border-radius: 8px;
+  background-color: rgb(152, 20, 20);
+}
+h1 {
+  font-size: 45px;
+}
+a {
+  color: #ffff;
+  text-decoration: none;
+
+}
