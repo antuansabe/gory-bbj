@@ -1,8 +1,8 @@
 *{
   border-radius: 15px;
-  margin-top: 10px;
-  background-color: rgba(11, 10, 10, 0.646);
-  color: white;
+  margin-top: 15px;
+
+  color: whitesmoke;
 }
 
 .wrapper{
@@ -10,14 +10,20 @@
   justify-content: center;
   grid-template-columns: 180px 180px;
   grid-gap: 5px;
-}
+  background-color: whitesmoke;
 
+
+}
 
 .thai {
-
+text-align: center;
 }
+
+
 
 .caja{
   display: table-cell;
   padding: 10px;
+  text-align: center;
+  background-color: black;
 }

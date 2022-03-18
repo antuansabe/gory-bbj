@@ -4,6 +4,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  border-radius: 1rem;
 }
 
 .main-join {
@@ -51,6 +52,10 @@
   margin-left: 1rem;
 }
 
+
+.container > p {
+  font-weight:bold;
+}
 
 .container-main {
   overflow: hidden;
