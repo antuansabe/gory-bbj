@@ -1,0 +1,44 @@
+h1{
+  text-align: center;
+}
+
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: .8fr .8fr  ;
+  grid-gap: 5px ;
+
+}
+
+.img1 {
+  border-radius: 1rem;
+  height: 100%;
+  width: 100%;
+}
+.img2 {
+  border-radius: 1rem;
+  height: 100%;
+  width: 100%;
+}
+.img3 {
+  border-radius: 1rem;
+  height: 100%;
+  width: 100%;
+}
+.img4 {
+  border-radius: 1rem;
+  height: 100%;
+  width: 100%;
+}
+.img5 {
+  border-radius: 1rem;
+  height: 100%;
+  width: 100%;
+}
+.img6 {
+  border-radius: 1rem;
+  height: 100%;
+  width: 100%;
+}
+
