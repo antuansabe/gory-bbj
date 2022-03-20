@@ -1,10 +1,15 @@
+*{
+
+}
+
 .wrapper {
-  background-color: black;
+  background-color: whitesmoke;
   color: white;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   border-radius: 1rem;
+  margin-top: 15px;
 }
 
 .main-join {
@@ -54,7 +59,8 @@
 
 
 .container > p {
-  font-weight:bold;
+  font: 700 12px Roboto,helvetica,arial,sans-serif;
+
 }
 
 .container-main {
